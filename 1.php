@@ -1,6 +1,5 @@
 <?php
-phpinfo();dsfss a
-asdfasdf
+hongfei
 
 
 asdfasdfads
